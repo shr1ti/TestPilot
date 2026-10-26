@@ -35,7 +35,6 @@ TestPilot/
 ├── schemas.py           # Pydantic request/response schemas
 ├── test_api.py          # API tests
 ├── test_app.py          # Browser-driven end-to-end workflow
-├── test_playwright.py   # Parameterized login automation tests
 ├── requirements.txt     # Python dependencies
 ├── .gitignore           # Files excluded from Git
 └── README.md            # Project documentation
